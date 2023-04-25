@@ -34,7 +34,5 @@ C programming language also allows to define various other types of variables, w
 Variable Definition in C
 A variable definition tells the compiler where and how much storage to create for the variable. A variable definition specifies a data type and contains a list of one or more variables of that type as follows −
 
-type variable_list;
-Here, type must be a valid C data type including char, w_char, int, float, double, bool, or any user-defined object; and variable_list may consist of one or more identifier names separated by commas. Some valid declarations are shown here −
-ne at any place![image](https://user-images.githubusercontent.com/125429673/234249817-94959aa3-a28c-4daf-84de-ae437a24bfd8.png)
-.  
+ [image](https://user-images.githubusercontent.com/125429673/234249817-94959aa3-a28c-4daf-84de-ae437a24bfd8.png)
+  
